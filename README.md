@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Steven Au
+#Hi there 👋, I am Steven Au
 
 ## About Me
 
@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 
 
 ## Projects
-
-
 
 1. Emotion Discovery and Reasoning its Flip in Conversation - SemEval Task 10 2024 ((https://github.com/deckerkrogh/semeval-2024-10):
 
@@ -33,25 +31,29 @@ Approved for NAACL 2024 Workshop, completed all 3 subtasks with one score tied f
 
 ## Skills
 
-List your skills and technologies you're proficient in. You can categorize them if you have a lot.
-
 - Programming Languages:
-  - Language 1
-  - Language 2
+  - Python
+  - C/C++
+  - Java
 - Frameworks/Libraries:
-  - Framework 1
-  - Library 1
+  - Tensorflow
+  - PyTorch
+  - Scikit-learn
+  - Keras
+  - Pandas
+  
 - Tools:
-  - Tool 1
-  - Tool 2
+  - Unix
+  - Git
 
 ## Contact Me
 
 - Email: sttau@ucsc.edu
 - LinkedIn: [Steven Au](https://www.linkedin.com/in/steven-au/)
 
-## Stats
+## Interests
+Mental Health Parity
+Diversity Inclusion, and Belonging
+Theater Arts
 
-You can include some stats about your GitHub activity here using shields.io or similar services.
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
