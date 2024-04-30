@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 1. Emotion Discovery and Reasoning its Flip in Conversation - SemEval Task 10 2024 ((https://github.com/deckerkrogh/semeval-2024-10):
 
-Performing emotion analysis in multiparty conversations in sitcom shows MaSac and MELD
-Baseline BERT  reached a .95 weighted F1 Score for emotion recognition  while GRU with BERT embeddings performed .79 for binary emotion flip reasoning in Hinglish code-mixed
-Approved for NAACL 2024 Workshop, completed all 3 subtasks with one score tied for first.
+- Performing emotion analysis in multiparty conversations in sitcom shows MaSac and MELD
+- Baseline BERT  reached a .95 weighted F1 Score for emotion recognition  while GRU with BERT embeddings performed .79 for binary emotion flip reasoning in Hinglish code-mixed
+- Approved for NAACL 2024 Workshop, completed all 3 subtasks with one score tied for first.
 
 ## Skills
 
