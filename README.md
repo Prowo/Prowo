@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-1st year Master's student in Natural Language Processing seeking Summer 2024 Artificial Intelligence Engineering internship, passionate about conversation agents and human-computer interaction
+Master's student graduate from UCSC in Natural Language Processing seeking AI/ML Engineer position and aspiring PhD student for Computational Psychiatry.
 
 
 ## Projects
